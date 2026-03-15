@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-15T23:24:20.440Z",
+  "source": {
+    "owner": "Flumbus",
+    "repo": "lf-pack",
+    "branch": "main"
+  },
+  "packs": [
+    {
+      "id": "main",
+      "title": "Основная сборка",
+      "description": "Обязательные моды LittleFlame.",
+      "category": "main",
+      "optional": false,
+      "logo": "",
+      "files": []
+    },
+    {
+      "id": "journeymap",
+      "title": "JourneyMap",
+      "description": "Альтернативная карта мира и миникарта.",
+      "category": "map",
+      "optional": true,
+      "default": false,
+      "logo": "",
+      "files": []
+    },
+    {
+      "id": "xaeros",
+      "title": "Xaero's Minimap",
+      "description": "Миникарта и waypoint'ы для удобной навигации.",
+      "category": "map",
+      "optional": true,
+      "default": false,
+      "logo": "",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "xaeros",
+  "title": "Xaero's Minimap",
+  "description": "Миникарта и waypoint'ы для удобной навигации.",
+  "category": "map",
+  "default": false,
+  "logo": ""
+}

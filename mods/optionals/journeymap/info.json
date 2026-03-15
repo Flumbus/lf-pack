@@ -1,0 +1,8 @@
+{
+  "id": "journeymap",
+  "title": "JourneyMap",
+  "description": "Альтернативная карта мира и миникарта.",
+  "category": "map",
+  "default": false,
+  "logo": ""
+}
